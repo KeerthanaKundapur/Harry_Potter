@@ -1,12 +1,11 @@
-Harry Potter Movie Dashboard
+**Harry Potter Movie Dashboard**
 
-Objective:
+**Objective:**
 The objective of this project is to develop a comprehensive dashboard, utilizing the Harry Potter movie scripts data, to perform a detailed analysis on various aspects of the franchise.This project aims to provide an informative and user-friendly tool for Harry Potter enthusiasts to gain insights and explore the nuances of the movies.
 
-Tool: Power BI (For data cleaning and Visualization)
-	Excel (extract data from excel)
+**Tool:** Power BI (For data cleaning and Visualization)
 
-KPI's:
+**KPI's:**
     >Total Budget,Box office and Profit of the movie
     >Total movies
     >Total number of chapters in overall movies profit
@@ -22,12 +21,13 @@ KPI's:
     >Number of place
     >Total spell.
     
-Dahboards:
-<img width="689" alt="Harry potter Main page" src="https://user-images.githubusercontent.com/112420165/235292696-2c4e5763-363d-4673-b7ad-c2c405f21ae2.png">
+**Dahboards:**
 
-<img width="690" alt="Harry potter main Dashboard" src="https://user-images.githubusercontent.com/112420165/235292704-cab21b75-b449-44f3-9dee-a4b4474217bd.png">
+	<img width="689" alt="Harry potter Main page" src="https://user-images.githubusercontent.com/112420165/235292696-2c4e5763-363d-4673-b7ad-c2c405f21ae2.png">
 
-Insights:
+	<img width="690" alt="Harry potter main Dashboard" src="https://user-images.githubusercontent.com/112420165/235292704-cab21b75-b449-44f3-9dee-a4b4474217bd.png">
+
+**Insights:**
 
 After examining the dashboard data, it can be inferred that the total budget for the eight Harry Potter movies amounted to 1.4 billion dollars, with a box office gross of 7.8 billion dollars, resulting in a profit of 6.4 billion dollars. In addition, the movies consisted of 234 chapters and 166 characters.
 
