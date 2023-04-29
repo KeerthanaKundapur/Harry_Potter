@@ -5,21 +5,21 @@ The objective of this project is to develop a comprehensive dashboard, utilizing
 
 **Tool:** Power BI (For data cleaning and Visualization)
 
-**KPI's:**
-    >Total Budget,Box office and Profit of the movie
-    >Total movies
-    >Total number of chapters in overall movies profit
-    >Total number of characters
-    >Character Name by House
-    >Dialogue by Character Name
-    >Movie Chapter by Movie Name
-    >Movie budget, box office, and profit by movie name
-    >Gender by House
-    >Average runtime by movie name
-    >Average run time
-    >Total number of dialogue
-    >Number of place
-    >Total spell.
+**KPI's:**          
+    1.Total Budget,Box office and Profit of the movie   
+    2.Total movies  
+    3.Total number of chapters in overall movies profit 
+    4.Total number of characters    
+    5.Character Name by House   
+    6.Dialogue by Character Name    
+    7.Movie Chapter by Movie Name   
+    8.Movie budget, box office, and profit by movie name    
+    9.Gender by House   
+    10.Average runtime by movie name    
+    11.Average run time     
+    12.Total number of dialogue     
+    13.Number of place  
+    14.Total spell.     
     
 **Dahboards:**
 
