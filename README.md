@@ -8,7 +8,7 @@ The objective of this project is to develop a comprehensive dashboard, utilizing
 **KPI's:**          
     1.Total Budget,Box office and Profit of the movie   
     2.Total movies  
-    3.Total number of chapters in overall movies profit 
+    3.Total number of chapters in overall movies profit         
     4.Total number of characters    
     5.Character Name by House   
     6.Dialogue by Character Name    
