@@ -23,9 +23,9 @@ The objective of this project is to develop a comprehensive dashboard, utilizing
     
 **Dahboards:**
 
-	<img width="689" alt="Harry potter Main page" src="https://user-images.githubusercontent.com/112420165/235292696-2c4e5763-363d-4673-b7ad-c2c405f21ae2.png">
+<img width="689" alt="Harry potter Main page" src="https://user-images.githubusercontent.com/112420165/235292696-2c4e5763-363d-4673-b7ad-c2c405f21ae2.png">
 
-	<img width="690" alt="Harry potter main Dashboard" src="https://user-images.githubusercontent.com/112420165/235292704-cab21b75-b449-44f3-9dee-a4b4474217bd.png">
+<img width="690" alt="Harry potter main Dashboard" src="https://user-images.githubusercontent.com/112420165/235292704-cab21b75-b449-44f3-9dee-a4b4474217bd.png">
 
 **Insights:**
 
